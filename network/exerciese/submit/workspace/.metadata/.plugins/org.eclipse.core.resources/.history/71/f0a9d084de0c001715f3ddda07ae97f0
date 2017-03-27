@@ -1,0 +1,10 @@
+package question2;
+
+public class HelloWorld_withParam {
+
+	public static void main(String[] args) {
+		String str = "Hello Wrold: " + args[0];
+		System.out.println(str);
+	}
+
+}
